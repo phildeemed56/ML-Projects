@@ -40,7 +40,7 @@ Age: Age in years
 
 Outcome: Class variable (0 or 1) indicating whether the individual has diabetes or not
 
-Dataset Link: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjZMbW45c1daSVVYUFpKRk9BZW55RUQycjdDQXxBQ3Jtc0tuc1BicVhyNzBqTDZrcnJrbGZhRWtjTzNPaE0yTE13cWVaSVV5WnJHM29oSG9Fc0w5WEhzYThSdDM2OWhWU2x3YlZaYlJKQ1ZCRWVjYkxzVlNyd3BiX2JvRGlCR3RiT3hEWnNXcUkyYWZMMzZNc0U3dw&q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fuh7o7uyeghqkhoy%2Fdiabetes.csv%3Fdl%3D0&v=xUE7SjVx9bQ
+Dataset Link: [https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjZMbW45c1daSVVYUFpKRk9BZW55RUQycjdDQXxBQ3Jtc0tuc1BicVhyNzBqTDZrcnJrbGZhRWtjTzNPaE0yTE13cWVaSVV5WnJHM29oSG9Fc0w5WEhzYThSdDM2OWhWU2x3YlZaYlJKQ1ZCRWVjYkxzVlNyd3BiX2JvRGlCR3RiT3hEWnNXcUkyYWZMMzZNc0U3dw&q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fuh7o7uyeghqkhoy%2Fdiabetes.csv%3Fdl%3D0&v=xUE7SjVx9bQ](https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0)
 
 
 **Requirements**
