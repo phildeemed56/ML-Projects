@@ -32,14 +32,20 @@ To run this project, you need to have Python installed on your system. You also 
 **Data Preprocessing**
 
 Loading Data: Load the dataset into a Pandas DataFrame.
+
 Inspecting Data: Check the first few rows, data types, and missing values in the dataset.
+
 Encoding Categorical Data: Convert categorical variables into numerical equivalents.
+
 Splitting Data: Split the dataset into training and testing sets for model training and evaluation.
 
-Model Training and Evaluation
+**Model Training and Evaluation**
+
 Linear Regression: Train a Linear Regression model and evaluate its performance using metrics like R-squared error.
+
 Lasso Regression: Train a Lasso Regression model and compare its performance with Linear Regression.
-Model Evaluation: Uses the trained linear regression model and lasso regression model to generate predictions for the input features of the training data and computes the R-square to indicate the variation in the target variable (Selling_Price) explained by the independent variables (features) in both linear regression model and lasso regression model.
+
+Model Evaluation: Use the trained linear regression model and lasso regression model to generate predictions for the input features of the training data and compute the R-square to indicate the variation in the target variable (Selling_Price) explained by the independent variables (features) in both linear regression model and lasso regression model.
 
 
 Contributing
