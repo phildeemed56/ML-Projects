@@ -43,13 +43,19 @@ Model Evaluation: Uses the trained linear regression model and lasso regression 
 
 
 Contributing
+
 Contributions to this project are welcome! You can contribute by:
 
 Reporting issues or bugs
+
 Providing suggestions for improvement
+
 Adding new features or enhancements
+
 Fixing issues or bugs
+
 Writing tests
-To contribute, fork this repository, make changes, and submit a pull request.
+
+
 
 
