@@ -48,7 +48,7 @@ Lasso Regression: Train a Lasso Regression model and compare its performance wit
 Model Evaluation: Use the trained linear regression model and lasso regression model to generate predictions for the input features of the training data and compute the R-square to indicate the variation in the target variable (Selling_Price) explained by the independent variables (features) in both linear regression model and lasso regression model.
 
 
-Contributing
+**Contributing**
 
 Contributions to this project are welcome! You can contribute by:
 
