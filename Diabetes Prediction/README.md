@@ -18,7 +18,8 @@ Diabetes is a chronic disease that affects millions of people worldwide. Early d
 
 This project utilizes a Support Vector Machine (SVM) model to analyze a dataset containing information about individuals' health metrics and predict whether they have diabetes or not. SVM is a powerful classification algorithm known for its effectiveness in handling high-dimensional data and non-linear relationships between features.
 
-Dataset
+**Dataset**
+
 The dataset used in this project contains the following features:
 
 Pregnancies: Number of times pregnant
