@@ -42,6 +42,7 @@ Download the dataset or specify the dataset URL in the code.
 Run the Python script or notebook cells.
 
 **Results and Discussion:**
+
 Discuss the performance of different models and techniques used.
 
 Present the AUPRC scores and any other relevant metrics.
@@ -49,4 +50,5 @@ Present the AUPRC scores and any other relevant metrics.
 Discuss any challenges faced during the project and potential improvements.
 
 **Conclusion:**
+
 Credit card fraud detection is a critical task in the financial industry. This project demonstrates the application of machine learning techniques to detect fraudulent transactions, considering the significant class imbalance in the dataset. By using appropriate evaluation metrics and preprocessing techniques, it is possible to build models that effectively identify fraudulent transactions, thereby enhancing security and trust in financial transactions.
