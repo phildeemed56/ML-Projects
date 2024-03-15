@@ -5,9 +5,13 @@ This project aims to detect fraudulent credit card transactions using machine le
 **Dataset Information**
 
 The dataset includes numerical input variables resulting from a Principal Component Analysis (PCA) transformation. PCA yielded features V1 through V28.
+
 'Time' denotes the time elapsed in seconds since the first transaction, while 'Amount' represents the transaction value.
+
 The target variable 'Class' indicates whether a transaction is fraudulent (1) or not (0).
+
 Evaluation Metric
+
 Due to the significant class imbalance, accuracy alone is not a reliable metric for model evaluation. Instead, the Area Under the Precision-Recall Curve (AUPRC) is used.
 
 **Steps Involved:**
@@ -30,25 +34,20 @@ Model Training: Machine learning models, such as logistic regression or random f
 
 Class Imbalancement: Techniques to handle class imbalance, such as oversampling or undersampling, are applied to improve model performance.
 
-
-**README Contents:**
-Introduction
-Dataset Information
-Evaluation Metric
-Steps Involved
-Instructions to Run the Code
-Results and Discussion
-Conclusion
-
 **Instructions to Run the Code:**
 Ensure you have Python installed on your system.
+
 Install the required libraries using pip or conda.
+
 Download the dataset or specify the dataset URL in the code.
+
 Run the Python script or notebook cells.
 
 **Results and Discussion:**
 Discuss the performance of different models and techniques used.
+
 Present the AUPRC scores and any other relevant metrics.
+
 Discuss any challenges faced during the project and potential improvements.
 
 **Conclusion:**
