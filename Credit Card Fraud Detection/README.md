@@ -1,9 +1,7 @@
 **Credit Card Fraud Detection Project**
 
-Dataset Information
-
-
 **Dataset Information**
+
 The dataset comprises credit card transactions carried out by European cardholders in September 2013. It spans two days and encompasses 284,807 transactions, out of which 492 are identified as fraudulent. The imbalance in the dataset is striking, with fraudulent transactions constituting a mere 0.172% of the total.
 
 The dataset solely includes numerical input variables resulting from a PCA transformation. Unfortunately, due to confidentiality constraints, details regarding the original features and additional contextual information are withheld. Principal Component Analysis (PCA) yielded features V1 through V28, while 'Time' and 'Amount' remain untouched by PCA. 'Time' denotes the time elapsed in seconds since the first transaction, while 'Amount' represents the transaction value. Notably, 'Class' serves as the response variable, taking a value of 1 for fraud and 0 otherwise.
