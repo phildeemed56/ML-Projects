@@ -13,14 +13,23 @@ Due to the significant class imbalance, accuracy alone is not a reliable metric 
 **Steps Involved:**
 
 Import Modules: Necessary Python libraries such as pandas, scikit-learn, and matplotlib are imported.
+
 Loading the Dataset: The dataset is loaded, typically from a CSV file or a URL.
+
 Preprocessing the Dataset: Any necessary preprocessing steps are performed, such as handling missing values or encoding categorical variables.
+
 Exploratory Data Analysis (EDA): Basic statistics and visualizations are used to understand the data distribution and relationships.
+
 Correlation Matrix: A correlation matrix is generated to understand the relationships between features.
+
 Input Split: The dataset is split into input features (X) and the target variable (y).
+
 Standard Scaling: Input features are often scaled to ensure that all features contribute equally to the model.
+
 Model Training: Machine learning models, such as logistic regression or random forest, are trained on the dataset.
+
 Class Imbalancement: Techniques to handle class imbalance, such as oversampling or undersampling, are applied to improve model performance.
+
 
 **README Contents:**
 Introduction
