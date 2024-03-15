@@ -1,18 +1,15 @@
 **Credit Card Fraud Detection Project**
 
-This project aims to detect fraudulent credit card transactions using machine learning techniques. The dataset used in this project comprises credit card transactions carried out by European cardholders in September 2013. It spans two days and encompasses 284,807 transactions, out of which 492 are identified as fraudulent. The imbalance in the dataset is striking, with fraudulent transactions constituting a mere 0.172% of the total.
+Dataset Information
+
 
 **Dataset Information**
+The dataset comprises credit card transactions carried out by European cardholders in September 2013. It spans two days and encompasses 284,807 transactions, out of which 492 are identified as fraudulent. The imbalance in the dataset is striking, with fraudulent transactions constituting a mere 0.172% of the total.
 
-The dataset includes numerical input variables resulting from a Principal Component Analysis (PCA) transformation. PCA yielded features V1 through V28.
+The dataset solely includes numerical input variables resulting from a PCA transformation. Unfortunately, due to confidentiality constraints, details regarding the original features and additional contextual information are withheld. Principal Component Analysis (PCA) yielded features V1 through V28, while 'Time' and 'Amount' remain untouched by PCA. 'Time' denotes the time elapsed in seconds since the first transaction, while 'Amount' represents the transaction value. Notably, 'Class' serves as the response variable, taking a value of 1 for fraud and 0 otherwise.
 
-'Time' denotes the time elapsed in seconds since the first transaction, while 'Amount' represents the transaction value.
+Given the significant class imbalance, it's advisable to evaluate accuracy using the Area Under the Precision-Recall Curve (AUPRC). Traditional measures like accuracy derived from a confusion matrix are unreliable for unbalanced classification scenarios.
 
-The target variable 'Class' indicates whether a transaction is fraudulent (1) or not (0).
-
-Evaluation Metric
-
-Due to the significant class imbalance, accuracy alone is not a reliable metric for model evaluation. Instead, the Area Under the Precision-Recall Curve (AUPRC) is used.
 
 Download dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
