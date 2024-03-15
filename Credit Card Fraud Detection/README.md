@@ -14,6 +14,8 @@ Evaluation Metric
 
 Due to the significant class imbalance, accuracy alone is not a reliable metric for model evaluation. Instead, the Area Under the Precision-Recall Curve (AUPRC) is used.
 
+Download dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 **Steps Involved:**
 
 Import Modules: Necessary Python libraries such as pandas, scikit-learn, and matplotlib are imported.
