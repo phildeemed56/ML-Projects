@@ -2,23 +2,21 @@
 
 This project aims to predict car prices using machine learning models such as Linear Regression and Lasso Regression. The dataset used contains information about various car attributes like year, selling price, present price, kilometers driven, fuel type, seller type, transmission, and owner details.
 
-Table of Contents
+**Table of Contents**
+
 Introduction
-Project Structure
+
 Installation
-Usage
+
 Data Preprocessing
+
 Model Training and Evaluation
-Additional Features
+
 Contributing
 
 **Introduction**
 
 Predicting car prices is essential for both buyers and sellers in the automotive market. Machine learning models can help in estimating car prices based on various attributes, enabling better decision-making for both parties. In this project, we use the Python programming language along with popular libraries like Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn to build and evaluate machine learning models for car price prediction.
-
-Project Structure
-README.md: Overview and instructions for the project.
-car_price_prediction.ipynb: Jupyter Notebook containing the project code.
 
 Dataset Link: https://www.kaggle.com/datasets/athirags/car-data
 
